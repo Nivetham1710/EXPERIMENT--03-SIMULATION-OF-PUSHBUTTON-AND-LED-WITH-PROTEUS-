@@ -51,6 +51,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 ## STM 32 CUBE PROGRAM :
 ~~~
+## DEVELOPED BY: NIVETHA M
+## REG.NO:212221240034
 #include "main.h"
 #include"stdio.h"
 #include"stdbool.h"
@@ -76,7 +78,7 @@ int main(void)
 	       {
 	  	HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
 	        }
-	       }
+	     }
   }
 ~~~
 ## Output screen shots of proteus:
