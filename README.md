@@ -88,6 +88,10 @@ LED ON:
 
 LED OFF:
 ![output](./off.png)
+
+## Proteus layout
+![Screenshot 2023-04-27 211401](https://user-images.githubusercontent.com/94155183/234929166-9a74bd98-5fe7-42a3-9fc4-108fe76ee0f5.png)
+
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
